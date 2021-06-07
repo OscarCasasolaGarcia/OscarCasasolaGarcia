@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on web development projects, software development or related topics.
 - 📫 How to reach me: 
   - Gmail: oscar.casasola.g7@gmail.com
-  - Twitter: oscxrhousealone
-  - Instagram: oscxr_housealone
+  - Twitter: @oscxrhousealone
+  - Instagram: @oscxr_housealone
 
 <!---
 OscarCasasolaGarcia/OscarCasasolaGarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
