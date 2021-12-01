@@ -1,13 +1,7 @@
-- 👋 Hi, I’m Oscar Casasola 
-- 👀 I’m interested in technology, politics, science and finance.
-- 🌱 I’m currently learning web design, web development, software engineering and mobile app development.
-- 💞️ I’m looking to collaborate on web development projects, software development or related topics.
-- 📫 How to reach me: 
+- 👋 Hola, soy Oscar Casasola. 
+- 🌱 Actualmente me encuentro estudiando la carrera de Ingeniería en Computación en la Facultad de Ingeniería de la UNAM, pero de igual manera estudio de manera autodidacta desarrollo web, Inteligencia Artificial, Machine Learning, Deep Learning y las aplicaciones que puede tener la Ciencia de Datos en el sector financiero. 
+- 👀 Tengo un gran interés en los temas de tecnología, política, ciencias computacionales y en el sector financiero. 
+- 📫 Me puedes contactar por los siguientes medios: 
   - Gmail: oscar.casasola.g7@gmail.com
   - Twitter: @oscxrhousealone
   - Instagram: @oscxr_housealone
-
-<!---
-OscarCasasolaGarcia/OscarCasasolaGarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
