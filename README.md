@@ -1,7 +1,12 @@
-- 👋 Hola, soy Oscar Casasola. 
-- 🌱 Actualmente me encuentro estudiando la carrera de Ingeniería en Computación en la Facultad de Ingeniería de la UNAM, pero de igual manera estudio de manera autodidacta desarrollo web, Inteligencia Artificial, Machine Learning, Deep Learning y las aplicaciones que puede tener la Ciencia de Datos en el sector financiero. 
-- 👀 Tengo un gran interés en los temas de tecnología, política, ciencias computacionales y en el sector financiero. 
+💻 ¡Hola! Soy Oscar, un estudiante de la carrera de Ingeniería en Computación. Me apasiona mucho el mundo de la tecnología, principalmente el de la computación, por lo que tengo un gran deseo de mejorar e incrementar mis habilidades en la Industria de TI. 
+
+💻 He tenido la oportunidad de estudiar por mi cuenta y recibir certificaciones en diferentes plataformas virtuales. 
+
+💻 Gracias a mi capacidad de adaptarme, puedo desempeñarme en distintas áreas, pero principalmente me especializo en tres diferentes sectores: Ciberseguridad, Inteligencia Artificial y Cloud Computing. 
+
+💻 Cada día busco aprender nuevas cosas y mejorarme, por lo que me esfuerzo constantemente en cualquier proyecto, trabajo y/o situación que se me presente. 
+
 - 📫 Me puedes contactar por los siguientes medios: 
   - Gmail: oscar.casasola.g7@gmail.com
   - Twitter: @oscxrhousealone
-  - Instagram: @oscxr_housealone
+  - LinkedIn: https://www.linkedin.com/in/oscar-casasola-garcia-ing/
